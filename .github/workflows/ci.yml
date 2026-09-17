@@ -33,3 +33,6 @@ jobs:
 
       - name: Tests
         run: dotnet test PruebaAsisYa.slnx --configuration Release --no-build
+
+      - name: Lint
+        run: dotnet format PruebaAsisYa.slnx --verify-no-changes --no-restore

@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/AuthService/">
+    <Project Path="AuthService/Auth.Api/Auth.Api.csproj" Id="6ae3c429-b6f8-40cb-abb0-05b3cdd7b695" />
+    <Project Path="AuthService/Auth.Application/Auth.Application.csproj" Id="6f2a4e01-2cf6-447c-9d38-a8c72a5bb5c9" />
+    <Project Path="AuthService/Auth.Domain/Auth.Domain.csproj" Id="76029349-11b0-4fc0-ba9b-0a9660a009cd" />
+    <Project Path="AuthService/Auth.Infrastructure/Auth.Infrastructure.csproj" Id="622dbfbe-91aa-4fa9-9088-2de315d71f1b" />
+  </Folder>
+  <Folder Name="/GatewayService/">
+    <Project Path="GatewayService/Gateway.Api/Gateway.Api.csproj" />
+  </Folder>
+  <Folder Name="/ProviderService/">
+    <Project Path="ProviderService/Provider.Api/Provider.Api.csproj" Id="440b256b-fd0e-4923-b079-a6961974235f" />
+    <Project Path="ProviderService/Provider.Application/Provider.Application.csproj" Id="8257d2b3-ed21-4394-95a8-080a9e40dbbe" />
+    <Project Path="ProviderService/Provider.Domain/Provider.Domain.csproj" Id="ab0e5a16-358f-4121-9dc7-9077e0c3efb6" />
+    <Project Path="ProviderService/Provider.Infrastructure/Provider.Infrastructure.csproj" Id="46fe2be4-7687-46e0-8a4b-a181b1f5c743" />
+    <Project Path="ProviderService/Provider.Tests/Provider.Tests.csproj" />
+  </Folder>
+</Solution>
